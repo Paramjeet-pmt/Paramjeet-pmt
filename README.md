@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paramjeet-pmt)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramjeet.tech07@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_8%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/paramjeet)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_8%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/paramjeet.pmt)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/paramjeet_tech07)
 [![Profile Views](https://komarev.com/ghpvc/?username=Paramjeet-pmt&style=for-the-badge&color=C84B31&label=PROFILE+VIEWS)](https://github.com/Paramjeet-pmt)
 
